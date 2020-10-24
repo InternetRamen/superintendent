@@ -91,6 +91,17 @@ This includes DM advertising. Exceptions can be made.
 
 This includes, but is not limited to: relationship advice, depression, or suicidal talk. We are not qualified to offer professional advice; it just does not belong here. Note that career-related advice is fine.
 
+## 9. Use common sense
+
+### Don't impersonate people
+This includes staff and others. If you say you are someone, we will trust you. Please don't take advantage of this.
+
+### Do not discuss infractions in public
+DM an Operator if you want to discuss an infraction or mute: don’t do it anywhere else on the server.
+
+### Do not ask for free work
+Programming is a skilled trade, so if you want development work, pay for it. Profit shares do not count as a form of payment.
+
 
 ***
 Rules inspired by:
