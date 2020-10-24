@@ -10,7 +10,7 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 
 	let helpEmbed = new MessageEmbed()
 		.setTitle(`Command list for **${client.user.username}**`)
-		.setFooter(`${client.user.username} `, client.user.avatarURL() || "")
+		.setFooter(`${client.user.username} `, client.user.displayAvatarURL() || "")
 		.setTimestamp()
 		.setDescription("Use `?help [command name]` for more info about a certain command.")
 		.setColor("#16daff")
@@ -23,7 +23,6 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 		let cmdObj = client.cmds.get(cmd)
 		let alias: string[] = cmdObj.aliases
 		let permission: string = cmdObj.permissions
-		console.log(typeof cmdObj.category)
 		if (alias.length === 0) alias = ["None"]
 		if (permission === "") permission = "Everyone"
 
