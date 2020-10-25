@@ -1,7 +1,13 @@
 import { Client, Message, MessageEmbed } from "discord.js-light";
 
 module.exports.run = async (client: Client, message: Message, args: string[]) => {
-
+    message.channel.messages.fetch(args[0])
+        .then(targetMsg => {
+            var targetEmbed: MessageEmbed = targetMsg.embeds[0]
+            targetEmbed.addField('Completed by', args[1])
+            targetMsg.edit(targetEmbed);
+        })
+        .catch(console.error);
 }
 module.exports.help = {
 	name: "completeb",
