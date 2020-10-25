@@ -1,4 +1,7 @@
 # Superintendet Custom Bot
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Information 
 Hello , welcome to my first project in TypeScript , I would like to introduce you to the **Superintendet Custom Bot** . This bot was developed by Jaden and serves as a custom bot for a Discord server .
@@ -72,6 +75,18 @@ Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project
 ## CONTRIBUTORS 
    I would like to thank all of these wonderful people for contributing to this project 
   
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Pandz18"><img src="https://avatars1.githubusercontent.com/u/58665834?v=4" width="100px;" alt=""/><br /><sub><b>Pandz18</b></sub></a><br /><a href="https://github.com/InternetRamen/superintendent/commits?author=Pandz18" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
