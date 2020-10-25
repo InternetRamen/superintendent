@@ -13,7 +13,7 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 
 	//Create Embed with color and footer
 
-	var messageList: string[] = ["What do you want your title to be?", "What is the description?", "What is the language?", "What is the difficulty?", "What will be the reward?"]
+	var messageList: string[] = ["What do you want your title to be?", "What is the description?", "What is some data you want to put that they can test with e.g. Input: 1 Ouput: 2", "What is the language?", "What is the difficulty?", "What will be the reward?", "What is the submission method? e.g. DM me."]
 	var responses: string[] = []
 
 	//Create an array of messages as well as an array of responses, I did this so it'll be easier to add more.
@@ -29,7 +29,7 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 	//And sentMessages is for keeping track of the number of messages to delete, it starts at 1 to get rid of
 	//the initial command
 
-	for(i = 0; i < 5; i++) {
+	for(i = 0; i < messageList.length; i++) {
 		if(ended) {
 			continue
 		}
@@ -68,9 +68,11 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 
 	bountyEmbed.setTitle(responses[0])
 	bountyEmbed.setDescription(responses[1])
-	bountyEmbed.addField('Language', responses[2])
-	bountyEmbed.addField('Difficulty', responses[3])
-	bountyEmbed.addField('Reward', responses[4])
+	bountyEmbed.addField('Test Data', responses[2])
+	bountyEmbed.addField('Language', responses[3])
+	bountyEmbed.addField('Difficulty', responses[4])
+	bountyEmbed.addField('Reward', responses[5])
+	bountyEmbed.addField('Submission Method', responses[6])
 
 	await message.channel.send( {embed: bountyEmbed} )
 
@@ -79,7 +81,7 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 module.exports.help = {
 	name: "createb",
 	description: "Creates a code-bounty",
-	aliases: ["m"],
+	aliases: [""],
 	usage: "?createb",
-	permissions: ["<@728255006079189022>", "<@304357555688308736>"],
+	permissions: "<@&766011830355099738>",
 }
