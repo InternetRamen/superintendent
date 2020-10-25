@@ -79,7 +79,7 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 module.exports.help = {
 	name: "createb",
 	description: "Creates a code-bounty",
-	aliases: ["m"],
+	aliases: [""],
 	usage: "?createb",
-	permissions: "",
+	permissions: "<@&766011830355099738>",
 }
