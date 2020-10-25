@@ -87,19 +87,6 @@ Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-   <table>
-   <tr>
-    <td align="center"><a href="https://github.com/InternetRamen"><img src="https://avatars1.githubusercontent.com/u/66806100?s=400&u=607f1ef57b67bf5e68d8b34647c411f2026b16c1&v=4" width="100px;" alt=""/><br /><sub><b>Jaden</b></sub></a><br /> </td>
-<td align="center"><a href="https://github.com/Mackyw"><img src="https://avatars3.githubusercontent.com/u/66183944?s=400&u=2b7836a3ac8a15836740cd585abaf78ff83bda42&v=4" width="100px;" alt=""/><br /><sub><b>Ana Vitória Eichenberger Teixeira </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/Gabinx"><img src="https://avatars1.githubusercontent.com/u/73398418?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Gabinx</b></sub></a><br /></td>
-</tr>
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
     
