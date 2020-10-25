@@ -81,5 +81,5 @@ module.exports.help = {
 	description: "Creates a code-bounty",
 	aliases: ["m"],
 	usage: "?createb",
-	permissions: ["<@728255006079189022>", "<@304357555688308736>"],
+	permissions: "",
 }
