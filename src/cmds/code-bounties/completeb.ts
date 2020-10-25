@@ -13,6 +13,6 @@ module.exports.help = {
 	name: "completeb",
 	description: "A command that allows operators to mark a bounty as complete.",
 	aliases: [],
-	usage: "?eval <code>",
+	usage: "?completeb <message id> <completed user with additional text>",
 	permissions: "<@&766011830355099738>",
 }
