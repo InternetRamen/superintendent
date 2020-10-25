@@ -63,7 +63,7 @@ npm start
 
 
 ## Contributing Guidelines
-Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project if you would like  to contribute. Happy Open Sourcing .
+Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project if you would like  to contribute. Happy Open Sourcing.
 
 
 
