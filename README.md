@@ -1,6 +1,6 @@
 # Superintendet Custom Bot
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Information 
@@ -83,6 +83,7 @@ Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project
     <td align="center"><a href="https://github.com/Pandz18"><img src="https://avatars1.githubusercontent.com/u/58665834?v=4" width="100px;" alt=""/><br /><sub><b>Pandz18</b></sub></a><br /><a href="https://github.com/InternetRamen/superintendent/commits?author=Pandz18" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/InternetRamen"><img src="https://avatars0.githubusercontent.com/u/66806100?v=4" width="100px;" alt=""/><br /><sub><b>Jaden</b></sub></a><br /><a href="#projectManagement-InternetRamen" title="Project Management">📆</a> <a href="#maintenance-InternetRamen" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/Gabinx"><img src="https://avatars0.githubusercontent.com/u/73398418?v=4" width="100px;" alt=""/><br /><sub><b>Gabinx</b></sub></a><br /><a href="#translation-Gabinx" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Mackyw"><img src="https://avatars3.githubusercontent.com/u/66183944?v=4" width="100px;" alt=""/><br /><sub><b>Ana Vitória Eichenberger Teixeira</b></sub></a><br /><a href="#translation-Mackyw" title="Translation">🌍</a></td>
   </tr>
 </table>
 
