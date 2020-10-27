@@ -41,6 +41,24 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "basil08",
+      "name": "basil08",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58484487?v=4",
+      "profile": "https://github.com/basil08",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ndeevy",
+      "name": "ndeevy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30370363?v=4",
+      "profile": "https://github.com/ndeevy",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
