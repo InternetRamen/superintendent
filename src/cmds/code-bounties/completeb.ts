@@ -2,7 +2,7 @@ import { Client, Message, MessageEmbed, TextChannel } from "discord.js-light";
 
 module.exports.run = async (client: Client, message: Message, args: string[]) => {
 
-    //if(message.member?.roles.highest.name != "Operator") return
+    if(message.member?.roles.highest.name != "Operator") return
 
     client.channels.fetch(String(args[0].match(/\d+/)))
 		.then(channel => {
