@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Information 
-Hello , welcome to my first project in TypeScript , I would like to introduce you to the **Superintendet Custom Bot** . This bot was developed by Jaden and serves as a custom bot for a Discord server .
+Hello, welcome to my first project in TypeScript. I would like to introduce you to the **Superintendet Custom Bot**. This bot was developed by Jaden and serves as a custom bot for a Discord server.
 
 
 ### This bot uses:
@@ -13,11 +13,11 @@ Hello , welcome to my first project in TypeScript , I would like to introduce yo
 
 
 ### List of Commands
-The most up to date list of the commands is found by using `?help` in your discord server where you have invited/placed the bot .
+The most up-to-date list of the commands is found by using `?help` in your discord server where you have invited or placed the bot.
 
 ## How to download the bot 
 
-If you would like to download and use the bot, follow these steps .
+If you would like to download and use the bot, follow these steps:
 
 **Step 1) Download Node.js.**
 
@@ -70,10 +70,10 @@ npm start
 
 
 ## Contributing Guidelines
-Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project if you would like  to contribute. Happy Open Sourcing .
+Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) of this project if you would like to contribute. Happy Open Sourcing.
 
 ## CONTRIBUTORS 
-   I would like to thank all of these wonderful people for contributing to this project 
+I would like to thank all of these wonderful people for contributing to this project:
   
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
