@@ -1,7 +1,9 @@
 import { Console, error } from "console";
-import { Client, Message, MessageEmbed } from "discord.js-light";
+import { Client, Message, MessageEmbed, TextChannel } from "discord.js-light";
 
 module.exports.run = async (client: Client, message: Message, args: string[]) => {
+
+	//if(message.member?.roles.highest.name != "Operator") return
 
 	var i;
 	
@@ -11,9 +13,9 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 		.setColor(embedColor)
 		.setFooter("Created by " + message.author.username)
 
-	//Create Embed with color and footer
+	//Create Embed with cogit reset --hard origin/masteror and footer
 
-	var messageList: string[] = ["What do you want your title to be?", "What is the description?", "What is some data you want to put that they can test with e.g. Input: 1 Ouput: 2", "What is the language?", "What is the difficulty?", "What will be the reward?", "What is the submission method? e.g. DM me."]
+	var messageList: string[] = ["What do you want your title to be?", "What is the description?", "What is some data you want to put that they can test with e.g. Input: 1 Ouput: 2", "What is the language?", "What is the difficulty?", "What will be the reward?", "What is the submission method? e.g. DM me.", "What channel do you want it to be in"]
 	var responses: string[] = []
 
 	//Create an array of messages as well as an array of responses, I did this so it'll be easier to add more.
@@ -74,7 +76,11 @@ module.exports.run = async (client: Client, message: Message, args: string[]) =>
 	bountyEmbed.addField('Reward', responses[5])
 	bountyEmbed.addField('Submission Method', responses[6])
 
-	await message.channel.send( {embed: bountyEmbed} )
+	client.channels.fetch(String(responses[7].match(/\d+/)))
+		.then(channel => {
+			(channel as TextChannel).send( {embed: bountyEmbed} )
+		})
+		.catch(err => console.error(err))
 
 }
 
