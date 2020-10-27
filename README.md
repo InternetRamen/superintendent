@@ -1,6 +1,6 @@
 # Superintendet Custom Bot
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Information 
@@ -85,6 +85,7 @@ I would like to thank all of these wonderful people for contributing to this pro
     <td align="center"><a href="https://github.com/Gabinx"><img src="https://avatars0.githubusercontent.com/u/73398418?v=4" width="100px;" alt=""/><br /><sub><b>Gabinx</b></sub></a><br /><a href="#translation-Gabinx" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Mackyw"><img src="https://avatars3.githubusercontent.com/u/66183944?v=4" width="100px;" alt=""/><br /><sub><b>Ana Vitória Eichenberger Teixeira</b></sub></a><br /><a href="#translation-Mackyw" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/basil08"><img src="https://avatars3.githubusercontent.com/u/58484487?v=4" width="100px;" alt=""/><br /><sub><b>basil08</b></sub></a><br /><a href="https://github.com/InternetRamen/superintendent/commits?author=basil08" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ndeevy"><img src="https://avatars2.githubusercontent.com/u/30370363?v=4" width="100px;" alt=""/><br /><sub><b>ndeevy</b></sub></a><br /><a href="https://github.com/InternetRamen/superintendent/commits?author=ndeevy" title="Documentation">📖</a></td>
   </tr>
 </table>
 
