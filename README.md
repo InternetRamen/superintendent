@@ -17,7 +17,7 @@ The most up to date list of the commands is found by using `?help` in your disco
 
 ## How to download the bot 
 
-If you would like to download and use the bot , follow these steps .
+If you would like to download and use the bot, follow these steps .
 
 **Step 1) Download Node.js.**
 
@@ -61,7 +61,7 @@ git clone https://github.com/InternetRamen/superintendent.git
 npm install
 ```
 
-**Step 6) Complie and run.**
+**Step 6) Compile and run.**
 
 ```
 npm run tsc
