@@ -59,6 +59,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "stephenuwu",
+      "name": "Stephen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46878042?v=4",
+      "profile": "https://github.com/stephenuwu",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
